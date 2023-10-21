@@ -1,0 +1,16 @@
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\bin\Debug\net7.0-windows\trabajo_3_segunda_parte.exe
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\bin\Debug\net7.0-windows\trabajo_3_segunda_parte.deps.json
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\bin\Debug\net7.0-windows\trabajo_3_segunda_parte.runtimeconfig.json
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\bin\Debug\net7.0-windows\trabajo_3_segunda_parte.dll
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\bin\Debug\net7.0-windows\trabajo_3_segunda_parte.pdb
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.Form1.resources
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.csproj.GenerateResource.cache
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.AssemblyInfoInputs.cache
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.AssemblyInfo.cs
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.csproj.CoreCompileInputs.cache
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.dll
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\refint\trabajo_3_segunda_parte.dll
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.pdb
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\trabajo_3_segunda_parte.genruntimeconfig.cache
+C:\Users\cdvil\source\repos\trabajo_3_segunda_parte\trabajo_3_segunda_parte\obj\Debug\net7.0-windows\ref\trabajo_3_segunda_parte.dll
